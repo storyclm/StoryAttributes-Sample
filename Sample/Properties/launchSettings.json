@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Workday": {
+      "commandName": "Project",
+      "commandLineArgs": "workday"
+    },
+    "Attributes": {
+      "commandName": "Project",
+      "commandLineArgs": "attributes"
+    }
+  }
+}
